@@ -1,0 +1,35 @@
+.main-hading {
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline wavy;
+
+}
+
+.blog {
+    width: calc(350px - 50px);
+    background-color: aquamarine;
+    padding: 25px;
+    margin: 10px;
+    display: inline-block;
+
+
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    border: 1px solid black;
+    background: gray;
+    color: white;
+    border-radius: 50px;
+}
+
+.green {
+    background-color: brown;
+}
+
+.whit {
+    background-color: blueviolet;
+}
